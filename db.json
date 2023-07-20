@@ -7,11 +7,7 @@
             "image": "https://i.postimg.cc/hGjgC1pz/Aftersun.png",
             "video": "https://s27.aconvert.com/convert/p3r68-cdx67/xu3lp-xlqd9.mp4",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Drama",
-                "two": "Story",
-                "three": "Thriller"
-            }
+            "category": "Drama"
         },
         {
             "name": "All Quiet on the Western Front",
@@ -20,11 +16,7 @@
             "image": "https://i.postimg.cc/nL8gmKNf/All-Quiet-on-the-Western-Front.png",
             "video": "https://s27.aconvert.com/convert/p3r68-cdx67/ke7en-zfrt2.mp4",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Action",
-                "two": "Drama",
-                "three": "War"
-            }
+            "category": "Action"
         },
         {
             "name": "Avatar The Way of Water",
@@ -32,11 +24,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/Wz4HV5qg/Avatar-The-Way-of-Water.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Action",
-                "two": "Adventure",
-                "three": "Fantasy"
-            }
+            "category": "Adventure"
         },
         {
             "name": "Bullet Train",
@@ -44,11 +32,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/gknTBBWP/Bullet-Train.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Action",
-                "two": "Comedy",
-                "three": "Thriller"
-            }
+            "category": "Comedy"
         },
         {
             "name": "Decision to Leave",
@@ -56,11 +40,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/L5008jj7/Decision-to-Leave.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Crime",
-                "two": "Drama",
-                "three": "Mystery"
-            }
+            "category": "Drama"
         },
         {
             "name": "Emily the Criminal",
@@ -68,11 +48,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/ZK2MkFbv/Emily-the-Criminal.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Crime",
-                "two": "Drama",
-                "three": "Thriller"
-            }
+            "category": "Drama"
         },
         {
             "name": "The Batman",
@@ -80,11 +56,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/pTC63wrP/The-Batman.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Action",
-                "two": "Crime",
-                "three": "Drama"
-            }
+            "category": "Action"
         },
         {
             "name": "The Black Phone",
@@ -92,11 +64,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/CMv27p9N/The-Black-Phone.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Horror",
-                "two": "Thriller",
-                "three": "Drama"
-            }
+            "category": "Horror"
         },
         {
             "name": "The Girl on a Bulldozer",
@@ -104,11 +72,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/6QNbqWG9/The-Girl-on-a-Bulldozer.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Drama",
-                "two": "Mystery",
-                "three": "Drama"
-            }
+            "category": "Drama"
         },
         {
             "name": "The Menu",
@@ -116,11 +80,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/9MCk8mWx/The-Menu.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Horror",
-                "two": "Thriller",
-                "three": "Mystery"
-            }
+            "category": "Horror"
         },
         {
             "name": "The Quiet Girl",
@@ -128,11 +88,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/s296Zkp5/The-Quiet-Girl.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Drama",
-                "two": "Thriller",
-                "three": "Life"
-            }
+            "category": "Drama"
         },
         {
             "name": "Top Gun Maverick",
@@ -140,11 +96,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/bJmmm1VJ/Top-Gun-Maverick.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Action",
-                "two": "Thriller",
-                "three": "Drama"
-            }
+            "category": "Action"
         },
         {
             "name": "Werewolf by Night",
@@ -152,11 +104,7 @@
             "year": "2022",
             "image": "https://i.postimg.cc/yd1fhLPt/Werewolf-by-Night.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Action",
-                "two": "Thriller",
-                "three": "Drama"
-            }
+            "category": "Action"
         },
         {
             "name": "X",
@@ -164,11 +112,47 @@
             "year": "2022",
             "image": "https://i.postimg.cc/HnjBRjFt/X.png",
             "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
-            "genre": {
-                "one": "Horror",
-                "two": "Mystery",
-                "three": "Thriller"
-            }
+            "category": "Horror"
+        },
+        {
+            "name": "hjhjs",
+            "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+            "year": "2023",
+            "image": "https://i.postimg.cc/HnjBRjFt/X.png",
+            "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
+            "category": "Estrenos"
+        },
+        {
+            "name": "lskkjsk",
+            "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+            "year": "2023",
+            "image": "https://i.postimg.cc/HnjBRjFt/X.png",
+            "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
+            "category": "Estrenos"
+        },
+        {
+            "name": "jsjsjhs",
+            "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+            "year": "2023",
+            "image": "https://i.postimg.cc/HnjBRjFt/X.png",
+            "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
+            "category": "Estrenos"
+        },
+        {
+            "name": "sjkjsk",
+            "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+            "year": "2023",
+            "image": "https://i.postimg.cc/HnjBRjFt/X.png",
+            "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
+            "category": "Estrenos"
+        },
+        {
+            "name": "skjksjs",
+            "description": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+            "year": "2023",
+            "image": "https://i.postimg.cc/HnjBRjFt/X.png",
+            "enlace": "https://www.youtube.com/watch?v=Qc9NcoVXWUo",
+            "category": "Estrenos"
         }
     ]
 }
